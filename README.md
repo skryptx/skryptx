@@ -1,5 +1,5 @@
 
-![Who am I](https://github.com/morevo/morevo/blob/main/assets/22323_atmosmul0001_0370.png "Web Developer")
+![Who am I](https://github.com/singla-s/singla-s/blob/main/assets/web%20application%20developer.png "Web Developer")
 
 <center>
   
