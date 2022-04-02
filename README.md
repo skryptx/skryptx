@@ -19,3 +19,5 @@
 ![sql](https://img.shields.io/badge/sql-0A090A?style=for-the-badge&logo=sql)
 ![html](https://img.shields.io/badge/html-0A090A?style=for-the-badge&logo=html) 
 ![css](https://img.shields.io/badge/css-0A090A?style=for-the-badge&logo=css) 
+![csharp](https://img.shields.io/badge/c%23-csharp-brightgreen)
+![microservices](https://img.shields.io/badge/.net-microservices-red)
