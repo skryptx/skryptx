@@ -6,20 +6,31 @@
 # I'm a Web Developer
 
 ## Languages and Tools
+### FrontEnd
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A090A?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A090A?style=for-the-badge&logo=TypeScript)
 ![Angular](https://img.shields.io/badge/Angular-0A090A?style=for-the-badge&logo=Angular)
-![csharp](https://img.shields.io/badge/.net-microservices-red?style=for-the-badge)
-![microservices](https://img.shields.io/badge/c%23-csharp-brightgreen?style=for-the-badge&logo=microservices)
-![sql](https://img.shields.io/badge/sql-0A090A?style=for-the-badge&logo=sql)
-![Scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=Sass)
-![git](https://img.shields.io/badge/git-0A090A?style=for-the-badge&logo=git) 
-![markdown](https://img.shields.io/badge/markdown-0A090A?style=for-the-badge&logo=markdown)
 ![html](https://img.shields.io/badge/html-0A090A?style=for-the-badge&logo=html) 
 ![css](https://img.shields.io/badge/css-0A090A?style=for-the-badge&logo=css)
 ![kendo](https://img.shields.io/badge/Kendo-0A090A?style=for-the-badge&logo=Kendo)
 ![material](https://img.shields.io/badge/Material-0A090A?style=for-the-badge&logo=Material)
 ![ngxs](https://img.shields.io/badge/Ngxs-0A090A?style=for-the-badge&logo=NgXs)
-![signalr](https://img.shields.io/badge/signalr-0A090A?style=for-the-badge&logo=signalr)
 ![rxjs](https://img.shields.io/badge/rxjs-0A090A?style=for-the-badge&logo=rxjs)
+![Scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=Sass)
+  
+### BackEnd
+![csharp](https://img.shields.io/badge/.net-microservices-red?style=for-the-badge)
+![microservices](https://img.shields.io/badge/c%23-csharp-brightgreen?style=for-the-badge&logo=microservices)
+![sql](https://img.shields.io/badge/sql-0A090A?style=for-the-badge&logo=sql)
+![signalr](https://img.shields.io/badge/signalr-0A090A?style=for-the-badge&logo=signalr)
 ![mongodb](https://img.shields.io/badge/mongo-0A090A?style=for-the-badge&logo=mongo)
+![docker](https://img.shields.io/badge/docker-0A090A?style=for-the-badge&logo=docker)
+
+### Tools
+![git](https://img.shields.io/badge/git-0A090A?style=for-the-badge&logo=git) 
+![markdown](https://img.shields.io/badge/markdown-0A090A?style=for-the-badge&logo=markdown)
+![vscode](https://img.shields.io/badge/vscode-0A090A?style=for-the-badge&logo=vscode)
+![visualstudio](https://img.shields.io/badge/visualstudio-0A090A?style=for-the-badge&logo=visualstudio)
+![postman](https://img.shields.io/badge/postman-0A090A?style=for-the-badge&logo=postman)
+![azure devops](https://img.shields.io/badge/azure devops-0A090A?style=for-the-badge&logo=azure devops)
+![AzureAD](https://img.shields.io/badge/AzureAD-0A090A?style=for-the-badge&logo=AzureAD)
