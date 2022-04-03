@@ -32,5 +32,5 @@
 ![vscode](https://img.shields.io/badge/vscode-0A090A?style=for-the-badge&logo=vscode)
 ![visualstudio](https://img.shields.io/badge/visualstudio-0A090A?style=for-the-badge&logo=visualstudio)
 ![postman](https://img.shields.io/badge/postman-0A090A?style=for-the-badge&logo=postman)
-![azure devops](https://img.shields.io/badge/azure devops-0A090A?style=for-the-badge&logo=azure devops)
-![AzureAD](https://img.shields.io/badge/AzureAD-0A090A?style=for-the-badge&logo=AzureAD)
+![azure devops](https://img.shields.io/badge/Azure%20devops-0A090A?style=for-the-badge&logo=Azure%20devops)
+![AzureAD](https://img.shields.io/badge/Azure%20AD-0A090A?style=for-the-badge&logo=Azure%20AD)
