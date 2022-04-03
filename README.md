@@ -19,8 +19,8 @@
 ![Scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=Sass)
   
 ### BackEnd
-![csharp](https://img.shields.io/badge/.net-microservices-red?style=for-the-badge)
-![microservices](https://img.shields.io/badge/c%23-csharp-brightgreen?style=for-the-badge&logo=microservices)
+![c#](https://img.shields.io/badge/csharp-0A090A?style=for-the-badge&logo=csharp)
+![microservices](https://img.shields.io/badge/microservices-0A090A?style=for-the-badge&logo=microservices)
 ![sql](https://img.shields.io/badge/sql-0A090A?style=for-the-badge&logo=sql)
 ![signalr](https://img.shields.io/badge/signalr-0A090A?style=for-the-badge&logo=signalr)
 ![mongodb](https://img.shields.io/badge/mongo-0A090A?style=for-the-badge&logo=mongo)
