@@ -34,3 +34,11 @@
 ![postman](https://img.shields.io/badge/postman-0A090A?style=for-the-badge&logo=postman)
 ![azure devops](https://img.shields.io/badge/Azure%20devops-0A090A?style=for-the-badge&logo=Azure%20devops)
 ![AzureAD](https://img.shields.io/badge/Azure%20AD-0A090A?style=for-the-badge&logo=Azure%20AD)
+
+### Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singla-s&show_icons=true&locale=en&layout=compact" alt="singla-s" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&locale=en" alt="singla-s" /></p>
+
+<p style="background-color:black"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singla-s&" alt="singla-s" /></p>
