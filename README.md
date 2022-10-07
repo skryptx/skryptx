@@ -37,8 +37,8 @@
 
 ### Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singla-s&show_icons=true&locale=en&layout=compact" alt="singla-s" />
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=singla-s&show_icons=true&locale=en&layout=compact" alt="singla-s" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&locale=en" alt="singla-s" />
+<img height="300px" src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&locale=en" alt="singla-s" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singla-s&" alt="singla-s" />
+<img height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=singla-s&" alt="singla-s" />
