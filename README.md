@@ -44,5 +44,5 @@
 <!--<img height="300px" src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&locale=en" alt="singla-s" />-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 <img height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=singla-s&theme=radical" alt="singla-s" />
