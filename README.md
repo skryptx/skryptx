@@ -42,7 +42,15 @@
 <!--<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=singla-s&show_icons=true&locale=en&layout=compact&size_weight=1&count_weight=0" alt="singla-s" />-->
 
 <!--<img height="300px" src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&locale=en" alt="singla-s" />-->
+<div>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=pie&theme=radical" />
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </div>
+</div>
+<div>
+  <img height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=singla-s&theme=radical" alt="singla-s" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=pie&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-<img height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=singla-s&theme=radical" alt="singla-s" />
