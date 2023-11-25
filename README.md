@@ -21,8 +21,8 @@
 ![Scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=Sass)
   
 ### BackEnd
-![c#](https://img.shields.io/badge/csharp-0A090A?style=for-the-badge&logo=csharp)
-![microservices](https://img.shields.io/badge/microservices-0A090A?style=for-the-badge&logo=microservices)
+![Java](https://img.shields.io/badge/java-0A090A?style=for-the-badge&logo=java)
+<!-- ![microservices](https://img.shields.io/badge/microservices-0A090A?style=for-the-badge&logo=microservices) -->
 ![sql](https://img.shields.io/badge/sql-0A090A?style=for-the-badge&logo=sql)
 ![signalr](https://img.shields.io/badge/signalr-0A090A?style=for-the-badge&logo=signalr)
 ![mongodb](https://img.shields.io/badge/mongo-0A090A?style=for-the-badge&logo=mongo)
@@ -32,7 +32,7 @@
 ![git](https://img.shields.io/badge/git-0A090A?style=for-the-badge&logo=git) 
 ![markdown](https://img.shields.io/badge/markdown-0A090A?style=for-the-badge&logo=markdown)
 ![vscode](https://img.shields.io/badge/vscode-0A090A?style=for-the-badge&logo=vscode)
-![visualstudio](https://img.shields.io/badge/visualstudio-0A090A?style=for-the-badge&logo=visualstudio)
+![IntelliJ IDEA](https://img.shields.io/badge/Intellij-0A090A?style=for-the-badge&logo=intellij)
 ![postman](https://img.shields.io/badge/postman-0A090A?style=for-the-badge&logo=postman)
 ![azure devops](https://img.shields.io/badge/Azure%20devops-0A090A?style=for-the-badge&logo=Azure%20devops)
 ![AzureAD](https://img.shields.io/badge/Azure%20AD-0A090A?style=for-the-badge&logo=Azure%20AD)
