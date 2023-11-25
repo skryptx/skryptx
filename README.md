@@ -39,8 +39,10 @@
 
 ### Stats
 
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=singla-s&show_icons=true&locale=en&layout=compact&size_weight=1&count_weight=0" alt="singla-s" />
+<!--<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=singla-s&show_icons=true&locale=en&layout=compact&size_weight=1&count_weight=0" alt="singla-s" />-->
 
 <!--<img height="300px" src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&locale=en" alt="singla-s" />-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=singla-s&" alt="singla-s" />
