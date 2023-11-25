@@ -43,6 +43,6 @@
 
 <!--<img height="300px" src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&locale=en" alt="singla-s" />-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=singla-s&" alt="singla-s" />
+<img height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=singla-s&theme=radical" alt="singla-s" />
