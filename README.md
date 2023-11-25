@@ -22,7 +22,6 @@
   
 ### BackEnd
 ![Java](https://img.shields.io/badge/java-0A090A?style=for-the-badge&logo=java)
-<!-- ![microservices](https://img.shields.io/badge/microservices-0A090A?style=for-the-badge&logo=microservices) -->
 ![sql](https://img.shields.io/badge/sql-0A090A?style=for-the-badge&logo=sql)
 ![signalr](https://img.shields.io/badge/signalr-0A090A?style=for-the-badge&logo=signalr)
 ![mongodb](https://img.shields.io/badge/mongo-0A090A?style=for-the-badge&logo=mongo)
