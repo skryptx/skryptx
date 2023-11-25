@@ -47,7 +47,7 @@
       <img height: 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=pie&theme=radical" />
     </span>
     <span>
-      <img height: 200 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+      <img height: 200 src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&theme=radical" />
     </span>
 </div>
 <div>
