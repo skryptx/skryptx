@@ -43,11 +43,11 @@
 
 <!--<img height="300px" src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&locale=en" alt="singla-s" />-->
 <div>
-    <span style="height: 200px">
-      <img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=pie&theme=radical" />
+    <span>
+      <img height: 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=pie&theme=radical" />
     </span>
-    <span style="height: 200px">
-      <img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <span>
+      <img height: 200 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
     </span>
 </div>
 <div>
