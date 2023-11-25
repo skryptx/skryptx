@@ -43,12 +43,8 @@
 
 <!--<img height="300px" src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&locale=en" alt="singla-s" />-->
 <div>
-  <div style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=pie&theme=radical" />
-  </div>
-  <div style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  </div>
+    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=pie&theme=radical" />
+    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </div>
 <div>
   <img height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=singla-s&theme=radical" alt="singla-s" />
