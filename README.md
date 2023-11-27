@@ -43,7 +43,7 @@
 <!--<img height="300px" src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&locale=en" alt="singla-s" />-->
 <div>
     <span>
-      <img height: 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=pie&theme=radical" />
+      <img height: 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=singla-s&layout=bar&theme=radical" />
     </span>
     <span>
       <img height: 300 src="https://github-readme-stats.vercel.app/api?username=singla-s&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" />
