@@ -7,6 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="./assets/pp.gif">
 
+
 ## Languages and Tools
 ### FrontEnd
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A090A?style=for-the-badge&logo=javascript)
