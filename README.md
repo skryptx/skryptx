@@ -48,7 +48,7 @@
 </div>
 <div>
   <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=undefin-ed&theme=radical" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=undefin-ed&theme=radical" alt="GitHub Streak" /></a>
   </span>
 </div>
 
