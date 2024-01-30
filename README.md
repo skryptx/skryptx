@@ -40,7 +40,7 @@
 
 <!--<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=undefin-ed&show_icons=true&locale=en&layout=compact&size_weight=1&count_weight=0" alt="undefin-ed" />-->
 
-<!--<img height="300px" src="https://github-readme-stats.vercel.app/api?username=undefin-ed&show_icons=true&locale=en" alt="undefin-ed" />-->
+<img height="300px" src="https://github-readme-stats.vercel.app/api?username=undefin-ed&show_icons=true&locale=en" alt="undefin-ed" />
 <div>
     <span>
       <img height: 300 src="https://github-readme-stats.vercel.app/api?username=undefin-ed&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" />
