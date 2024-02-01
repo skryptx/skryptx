@@ -3,7 +3,7 @@
 
 <center>
   
-# I'm a Web Developer
+# I'm a Full Stack Developer
 
 <img align="right" alt="Coding" width="400" src="./assets/pp.gif">
 
@@ -28,6 +28,7 @@
 ![docker](https://img.shields.io/badge/docker-0A090A?style=for-the-badge&logo=docker)
 
 ### Tools
+![IntelliJ Idea](https://img.shields.io/badge/git-0A090A?style=for-the-badge&logo=intelliJ) 
 ![git](https://img.shields.io/badge/git-0A090A?style=for-the-badge&logo=git) 
 ![markdown](https://img.shields.io/badge/markdown-0A090A?style=for-the-badge&logo=markdown)
 ![vscode](https://img.shields.io/badge/vscode-0A090A?style=for-the-badge&logo=vscode)
