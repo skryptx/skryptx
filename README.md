@@ -3,7 +3,7 @@
 
 <center>
   
-# I'm a Full Stack Developer
+# I'm a Web Developer
 
 <img align="right" alt="Coding" width="400" src="./assets/pp.gif">
 
