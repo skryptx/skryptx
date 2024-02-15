@@ -19,6 +19,7 @@
 ![ngxs](https://img.shields.io/badge/Ngxs-0A090A?style=for-the-badge&logo=NgXs)
 ![rxjs](https://img.shields.io/badge/rxjs-0A090A?style=for-the-badge&logo=rxjs)
 ![Scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=Sass)
+
   
 ### BackEnd
 ![Java](https://img.shields.io/badge/java-0A090A?style=for-the-badge&logo=java)
