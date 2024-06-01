@@ -34,7 +34,7 @@
 ![vscode](https://img.shields.io/badge/vscode-0A090A?style=for-the-badge&logo=vscode)
 ![IntelliJ IDEA](https://img.shields.io/badge/Intellij-0A090A?style=for-the-badge&logo=intellij)
 ![postman](https://img.shields.io/badge/postman-0A090A?style=for-the-badge&logo=postman)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0A090A?style=for-the-badge&logo=Microsoft Azure%20devops)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0A090A?style=for-the-badge&logo=Microsoft%20Azure)
 
 ### Stats
 
