@@ -5,7 +5,9 @@
   
 # Hello There 👋, I'm Sinni Singla 🧑‍💻
 
+<!-- 
 <img align="right" alt="Coding" width="400" src="./assets/pp.gif">
+-->
 
 ## Languages and Tools
 
