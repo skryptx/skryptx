@@ -8,6 +8,14 @@
 <!-- 
 <img align="right" alt="Coding" width="400" src="./assets/pp.gif">
 -->
+<!-- Introduction -->
+## **Overview 👉**
+<p>Let me introduce myself. I'm Sinni Singla, I'm a software engineer.</p>
+
+
+<br><br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<br><br>
 
 ## Languages and Tools
 
@@ -42,15 +50,11 @@
 -->
 
 <!-- TechStack -->
+<!--
 ![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
+-->
 
-<!-- Introduction -->
-## **Overview 👉**
-<p>Let me introduce myself. I'm Sinni Singla, I'm a software engineer.</p>
 
-<br><br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-<br><br>
 
 ## **Hard Skills 🚀**
 <p align="center">
@@ -85,8 +89,6 @@
 </p>
 -->
 
-<h4 align="center">Thanks for Visiting! 😇</h4>
-
 ### Stats
 
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=undefin-ed&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" alt="undefin-ed" />
@@ -102,3 +104,4 @@
   </span>
 </div>
 
+<h4 align="center">Thanks for Visiting! 😇</h4>
