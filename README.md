@@ -88,15 +88,16 @@
 -->
 
 ### Stats
-
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=skryptx&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" alt="skryptx" />
+<div  align="center">
+  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=skryptx&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" alt="skryptx" />
+</div>
 <!-- <div>
     <span>
       <img height: 300 src="https://github-readme-stats.vercel.app/api?username=skryptx&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" />
     </span>
 </div> -->
 
-<div style="width: 100%; display: flex; justify-content: center; align-items: center">
+<div align="center">
   <span>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=skryptx&theme=radical" alt="GitHub Streak" /></a>
   </span>
