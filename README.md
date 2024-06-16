@@ -102,4 +102,8 @@
   </span>
 </div>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 <h4 align="center">Thanks for Visiting! 😇</h4>
