@@ -88,6 +88,12 @@
 -->
 
 ### Stats
+<div align="center">
+  <span>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=skryptx&theme=radical" alt="GitHub Streak" /></a>
+  </span>
+</div>
+
 <div  align="center">
   <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=skryptx&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" alt="skryptx" />
 </div>
@@ -99,12 +105,6 @@
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=skryptx&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-<div align="center">
-  <span>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=skryptx&theme=radical" alt="GitHub Streak" /></a>
-  </span>
 </div>
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
