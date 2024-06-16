@@ -97,14 +97,14 @@
     </span>
 </div> -->
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=skryptx&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 <div align="center">
   <span>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=skryptx&theme=radical" alt="GitHub Streak" /></a>
   </span>
-</div>
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=skryptx&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
