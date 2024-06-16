@@ -96,7 +96,7 @@
     </span>
 </div> -->
 
-<div style="display: flex; justify-content: center;">
+<div style="width: 100%; display: flex; justify-content: center; align-items: center">
   <span>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=skryptx&theme=radical" alt="GitHub Streak" /></a>
   </span>
