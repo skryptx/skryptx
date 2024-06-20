@@ -19,7 +19,7 @@
       <b>
         I love connecting with different people</b> so if you want to say <b>I'll be happy to connect with you on my 
         <a href="www.linkedin.com/in/skryptx">
-            <img src="https://img.shields.io/badge/0077B5?style=for-the-badge&badge=linkedin&logoColor=white" alt="LinkedIn"/>!
+            <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/>!
         </a>
         :blush:
       </b>
