@@ -19,9 +19,9 @@
       <b>
         I love connecting with different people</b> so if you want to say <b>I'll be happy to connect with you on my 
         <a href="www.linkedin.com/in/skryptx">
-            <img align="center" style="width: 24px;height: 24px;" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/>!
+            <img align="center" style="width: 24px;height: 24px;" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/>
         </a>
-        :blush:
+        ! :blush:
       </b>
     </em>
 <br><br>
