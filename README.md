@@ -14,7 +14,10 @@
 
 
 <br><br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>I'll be happy to connect with you on my 
+    <a href="https://git.io/streak-stats">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>!</b> :blush:</em>
+    </a>
 <br><br>
 
 ## Languages and Tools
