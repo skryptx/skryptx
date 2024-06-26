@@ -106,12 +106,13 @@
 <div  align="center">
   <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=skryptx&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" alt="skryptx" />
 </div>
+<!-- 
 <div>
     <span>
       <img height: 300 src="https://github-readme-stats.vercel.app/api?username=skryptx&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" />
     </span>
 </div>
-
+-->
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=skryptx&style=for-the-badge&color=orange" alt=""/>
 </div>
