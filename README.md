@@ -101,7 +101,7 @@
 ### Stats
 <div align="center">
   <span>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=skryptx&theme=radical" alt="GitHub Streak" /></a>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skryptx&theme=monokai&hide_border=true)](https://git.io/streak-stats)
   </span>
 </div>
 
