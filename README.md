@@ -45,7 +45,7 @@
 ### Stats
 <div align="center">
   <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=skryptx"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=skryptx"/>
   </span>
 </div>
 
