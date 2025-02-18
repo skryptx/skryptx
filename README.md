@@ -5,10 +5,6 @@
   
 # Hello There 👋, I'm Sinni Singla 🧑‍💻
 
-<!-- 
-<img align="right" alt="Coding" width="400" src="./assets/pp.gif">
--->
-<!-- Introduction -->
 ## **Overview 👉**
 <p>Let me introduce myself. I'm Sinni Singla, I'm a software engineer.</p>
 
@@ -26,46 +22,7 @@
     </em>
 <br><br>
 
-## Languages and Tools
-
-<!--
-### FrontEnd
-![JavaScript](https://img.shields.io/badge/JavaScript-0A090A?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A090A?style=for-the-badge&logo=TypeScript)
-![Angular](https://img.shields.io/badge/Angular-0A090A?style=for-the-badge&logo=Angular)
-![html](https://img.shields.io/badge/html-0A090A?style=for-the-badge&logo=html) 
-![css](https://img.shields.io/badge/css-0A090A?style=for-the-badge&logo=css)
-![kendo](https://img.shields.io/badge/Kendo-0A090A?style=for-the-badge&logo=Kendo)
-![material](https://img.shields.io/badge/Material-0A090A?style=for-the-badge&logo=Material)
-![ngxs](https://img.shields.io/badge/Ngxs-0A090A?style=for-the-badge&logo=NgXs)
-![rxjs](https://img.shields.io/badge/rxjs-0A090A?style=for-the-badge&logo=rxjs)
-![Scss](https://img.shields.io/badge/scss-0A090A?style=for-the-badge&logo=Sass)
-
-  
-### BackEnd
-![Java](https://img.shields.io/badge/java-0A090A?style=for-the-badge&logo=java)
-![sql](https://img.shields.io/badge/sql-0A090A?style=for-the-badge&logo=sql)
-![signalr](https://img.shields.io/badge/signalr-0A090A?style=for-the-badge&logo=signalr)
-![mongodb](https://img.shields.io/badge/mongo-0A090A?style=for-the-badge&logo=mongo)
-![docker](https://img.shields.io/badge/docker-0A090A?style=for-the-badge&logo=docker)
-
-### Tools
-![git](https://img.shields.io/badge/git-0A090A?style=for-the-badge&logo=git) 
-![markdown](https://img.shields.io/badge/markdown-0A090A?style=for-the-badge&logo=markdown)
-![vscode](https://img.shields.io/badge/vscode-0A090A?style=for-the-badge&logo=vscode)
-![IntelliJ IDEA](https://img.shields.io/badge/Intellij-0A090A?style=for-the-badge&logo=intellij)
-![postman](https://img.shields.io/badge/postman-0A090A?style=for-the-badge&logo=postman)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0A090A?style=for-the-badge&logo=Microsoft%20Azure) 
--->
-
-<!-- TechStack -->
-<!--
-![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
--->
-
-
-
-## **Hard Skills 🚀**
+## Languages and Tools 🚀
 <p align="center">
 <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/> 
 <img src="https://img.shields.io/badge/Flask-339933?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/>
@@ -85,16 +42,6 @@
 <img src="https://img.shields.io/badge/Material-7952B3?style=for-the-badge&logo=Material&logoColor=white" alt="Material"/>
 </p>
 
-<!-- 
-## **Connect with me 👇**
-<p align="center">
-<a href="https://github.com/mdhachem"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/mohamed-dhia-hachem-073888150/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
-<a href=""><img src="https://user-images.githubusercontent.com/58532023/171219320-cc1517cb-54a9-470c-a92d-965524a7b3aa.png" alt="Instagram"/></a>
-<a href=""><img src="https://user-images.githubusercontent.com/58532023/171218519-2ccc030a-72b5-45ea-a2ec-7f1dfbef917f.png" alt="Twitter"/></a>
-</p>
--->
-
 ### Stats
 <div align="center">
   <span>
@@ -105,13 +52,7 @@
 <div  align="center">
   <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=skryptx&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" alt="skryptx" />
 </div>
-<!-- 
-<div>
-    <span>
-      <img height: 300 src="https://github-readme-stats.vercel.app/api?username=skryptx&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" />
-    </span>
-</div>
--->
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=skryptx&style=for-the-badge&color=orange" alt=""/>
 </div>
