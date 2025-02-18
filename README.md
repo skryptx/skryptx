@@ -45,7 +45,7 @@
 ### Stats
 <div align="center">
   <span>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=skryptx"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=skryptx&theme=vue-dark&hide_border=true"/>
   </span>
 </div>
 
