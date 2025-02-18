@@ -45,7 +45,7 @@
 ### Stats
 <div align="center">
   <span>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=skryptx&theme=monokai&hide_border=true" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skryptx&theme=monokai&hide_border=true" alt="GitHub Streak" />
   </span>
 </div>
 
