@@ -45,7 +45,7 @@
 ### Stats
 <div align="center">
   <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=skryptx&theme=monokai&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=skryptx"/>
   </span>
 </div>
 
