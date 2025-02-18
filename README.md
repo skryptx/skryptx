@@ -50,7 +50,7 @@
 </div>
 
 <div  align="center">
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=skryptx&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical" alt="skryptx" />
+  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=skryptx&show_icons=true&include_all_commits=true&card_height=300&rank_icon=percentile&theme=radical&hide_border=true" alt="skryptx" />
 </div>
 
 <div id="header" align="center">
