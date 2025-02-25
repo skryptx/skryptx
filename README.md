@@ -8,7 +8,6 @@
 ## **Overview 👉**
 <p>Let me introduce myself. I'm Sinni Singla, I'm a software engineer.</p>
 
-
 <br><br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
     <em>
