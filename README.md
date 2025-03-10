@@ -24,8 +24,7 @@
 
 ## Languages and Tools 🚀
 <p align="center">
-<img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/> 
-<img src="https://img.shields.io/badge/Flask-339933?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-59666C?style=for-the-badge&logo=Angular&logoColor=black" alt="TypeScript"/>
