@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=black" alt="SonarQube"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/> 
-<img src="https://img.shields.io/badge/Kendo UI-100000?style=for-the-badge&logo=Kendo UI&logoColor=white" alt="Kendo"/>
+<img src="https://img.shields.io/badge/KendoUI-100000?style=for-the-badge&logo=KendoUI&logoColor=white" alt="Kendo"/>
 <img src="https://img.shields.io/badge/Material-7952B3?style=for-the-badge&logo=Material&logoColor=white" alt="Material"/>
 </p>
 
